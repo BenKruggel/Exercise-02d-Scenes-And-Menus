@@ -2,7 +2,8 @@
 
 Exercise for MSCH-C220
 
-A user-controlled ship for a space-shooter game. Recently added the ability to shoot at asteroids. Created in Unity.
+Added background images for level and menus. Altered player movement mechanics to increase control (increased acceleration and max speed, faster ship rotation). Increased max player fire rate. Added contact damage to asteroids for additional obstacles. Increased asteroid count to 4. Added second enemy that moves left and has 2 hitpoints. Fixed bug where exhaust stayed visible after death. Added animated sprite for player bullets. Added fonts and increased button size for better aesthetic. Added music for main menu and level. 
+Menu art, player bullet sprite/animation and all music were made by me. 
 
 ## Implementation
 
